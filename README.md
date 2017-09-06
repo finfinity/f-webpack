@@ -37,7 +37,7 @@ module.exports = {
 
 ```
 {
-  "name": "template-webpack",
+  "name": "f-webpack-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
