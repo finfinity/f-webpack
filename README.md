@@ -6,13 +6,6 @@
 
 它是高度可配置的，但是，在开始前你需要先理解四个核心概念：入口(entry)、输出(output)、loader、插件(plugins)。
 
-本文档旨在给出这些概念的高度概述，同时提供具体概念的详尽相关用例。
-
-The next generation of TutorMeet+ Front-End Project, (Previous name "Firenze")
-
-* 基于React及相关技术
-* 文档参考docs目录
-* Changelog 参考CHANGELOG.md
 
 ## NPM script
 
