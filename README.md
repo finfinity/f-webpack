@@ -1,4 +1,4 @@
-# f-webpack-template
+# f-webpack
 
 ## Description
 
@@ -37,7 +37,7 @@ module.exports = {
 
 ```
 {
-  "name": "f-webpack-template",
+  "name": "f-webpack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
