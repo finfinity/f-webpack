@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
-const __CONFIG__ = require('../config');
+const __CONFIG__ = require('../project-list');
 
 module.exports = {
   entry: {},
